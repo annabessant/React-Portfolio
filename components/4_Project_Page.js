@@ -1,3 +1,7 @@
+// renders six instances of the Project component dynamically
+// stores project details data in a JSON file and imports it into your project
+
+
 import React from "react";
 
 function Blog() {

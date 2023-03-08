@@ -1,3 +1,6 @@
+// renders the following info: Project title; Link to the deployed version
+// Link to the GitHub repository; screenshot of the deployed application
+
 import React from "react";
 
 function Learn() {

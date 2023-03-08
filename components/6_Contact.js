@@ -1,3 +1,6 @@
+// includes contact information: Email address, Link to a PDF version of your CV
+// Link to your GitHub profile, Link to your LinkedIn page
+
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
 import Learn from './Learn';
