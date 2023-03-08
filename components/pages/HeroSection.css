@@ -1,0 +1,21 @@
+.hero-container {
+    background-image: url('..//??') center no-repaet;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.hero-container > h1 {
+    color:blue; 
+    font-size: medium;
+}
+
+.hero-container > p {
+    color:blue; 
+    font-size: small;
+}
+
+.hero-btns {
+    //add 
+}
