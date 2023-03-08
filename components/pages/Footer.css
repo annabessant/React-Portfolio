@@ -1,0 +1,17 @@
+.footer-container {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.social-icon-link {
+    color: aliceblue;
+    font-size: small;
+}
+
+.social-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
